@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Created file StringUtility.py which includes the StringUtility class. Created functions that allow the tests to be performed and completed without the assertions being triggered.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ Google search: How many letters are in the english alphabet?
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
